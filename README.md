@@ -1,5 +1,5 @@
 # heisenberg-programing
-From an idea of a really"smart" colleague, the implementation of the base of heisenberg programing written in java. 
+From an idea of a really "smart" colleague, the implementation of the base of heisenberg programing written in java. He change the state of the object each time is inspected raising exceptional random bug around the back end system. 
 
 ## 1.Intro
  Heisenberg's uncertainty principle, is any of a variety of mathematical inequalities asserting a fundamental limit to the 
@@ -30,7 +30,7 @@ From an idea of a really"smart" colleague, the implementation of the base of hei
   }
 ```
 ## 3.Conclusion
- A smart way to loose time if yuo are not handling with quantum cryptography but with some REST services,
+ A smart way to loose time if you are not handling with quantum cryptography but with some REST services,
  this project is a joke if you have some doubts. 
  
  
