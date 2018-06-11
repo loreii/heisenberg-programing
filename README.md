@@ -9,7 +9,7 @@ From an idea of a really "smart" colleague, the implementation of the base of he
  and vice versa.[1]
  
 ## 2.Programming
- Maching the long story short I look someting but my obeservation change it.
+ Making the long story short I look someting but my obeservation change it.
 ``` 
   /**
    * 
